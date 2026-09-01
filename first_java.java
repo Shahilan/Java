@@ -21,8 +21,10 @@ public class first_java{
         double gpa = 3.91;
         char grade = 'A';
         boolean isStudent = true;
+        
         //reference data type
         String name = "Hey Shahi";
+        
         System.out.println("gpa=" + gpa + " " + "grade=" + grade + " " + "name=" + name);
         if(isStudent){
             System.out.println("your are student");
