@@ -18,4 +18,14 @@ public class Student {
         return name;
 
     }
+
+    // Setter for age
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    // Getter for age
+    public int getAge() {
+        return age;
+    }
 }
